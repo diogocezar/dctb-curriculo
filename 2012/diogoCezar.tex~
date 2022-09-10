@@ -1,0 +1,146 @@
+\documentclass[11pt,a4paper,sans]{moderncv}  
+\usepackage[latin1]{inputenc}
+\usepackage[brazil]{babel}
+\usepackage{setspace}
+
+\moderncvstyle{casual}
+\moderncvcolor{red}
+
+\usepackage[scale=0.75]{geometry}
+
+\firstname{Diogo Cezar}
+\familyname{Teixeira Batista}
+\title{Curriculum Vitae}
+\address{\small{Av. Sete de Setembro, 3146. Ap. 1007, Bloco B}}{Curitiba - Paraná}
+\mobile{(41) 9904-9994}
+\phone{(41) 3045-0440}
+\email{diogo@diogocezar.com}
+\homepage{http://www.diogocezar.com}
+\extrainfo{http://lattes.cnpq.br/1431388428304935}
+\extrainfo{http://br.linkedin.com/in/diogocezar}
+%\photo[64pt][0.4pt]{picture}
+\quote{``Escolha um trabalho que você ame e não terás que trabalhar
+um único dia em sua vida'', Confucius.}
+
+\begin{document}
+
+\makecvtitle
+
+\doublespacing
+
+\section{Formações}
+
+\cventry{2010--2012}{Mestrado}{UFPR, UNIVERSIDADE
+FEDERAL DO PARANÁ, Curitiba, Paraná -
+Mestrado em Informática (LIAMF - Laboratório de Inteligência Artificial e Métodos Formais)}{\textbf{Trabalho de Conclusão de Curso}: Um Modelo de Execução de Fluxos de Trabalho Científico Utilizando Técnicas de Planejamento Automático}{}{}
+
+\cventry{2004--2007}{Ensino Superior}{UTFPR, UNIVERSIDADE
+TECNOLÓGICA FEDERAL DO PARANÁ, Campus Cornélio Procópio, Paraná -
+Curso Superior de Tecnologia em Desenvolvimento de Sistemas de
+Informação}{\textbf{Trabalho de Conclusão de Curso}: Proposta de
+Abordagem Hipermídia Adaptativa Baseada em Otimização por Colônia de
+Formigas}{}{}
+
+\cventry{2000--2003}{Ensino Médio}{UTFPR, UNIVERSIDADE
+TECNOLÓGICA FEDERAL DO PARANÁ, Campus Cornélio Procópio, Paraná}{}{}{}
+
+\section{Cursos Ministrados}
+
+    \cventry{2011}{Minicurso}{Pontifícia Universidade Católica do Paraná - PUCPR}{Charneira (\httplink{http://charneira2011.com.br/}) Integração Multidisciplinar entre o 	\emph{Design} e a Programação para Web}{Duração: 10 horas}{}
+
+    \cventry{2007}{Curso}{Microlins - Cornélio Procópio/PR}{Curso V.I.P.
+    ministrado sobre a ferramenta Delphi 7.0}{Duração: 10 horas}{}
+
+    \cventry{2005}{Curso}{Microlins - Cornélio Procópio/PR}{Curso V.I.P.
+    ministrado sobre a ferramenta Macromedia Flash MX}{Duração: 24
+    horas}{}
+
+    \cventry{2005}{Curso}{UTFPR - Cornélio Procópio/PR}{Curso de
+    informática básica para jovens carentes da comunidade}{Duração: 36
+    horas}{}
+
+\section{Cursos e Minicursos Assistidos}
+
+    \cventry{2009}{Minicurso}{Desenvolvimento .NET com C\#}{UTFPR Cornélio Procópio/PR}{Duração: 15 horas}{}
+
+    \cventry{2007}{Curso}{Web Application Development Using
+    Ajax}{WebMedia Gramado/RS}{Duração: 8 horas}{}
+
+    \cventry{2007}{Curso}{Hypermidia For Mobile Devices: Introduction To
+    Web System Engineering And Mult-Layered Architectures}{WebMedia
+    Gramado/RS}{Duração: 8 horas}{}
+
+    \cventry{2005}{Curso}{Desenvolvimento web usando linguagem PHP e
+    banco de dados MySQL}{UTFPR Cornélio Procópio/PR}{Duração: 16
+    horas}{}
+
+    \cventry{2005}{Curso}{Grupo GUPNET - Unidade Cornélio Procópio
+    PR}{Visão geral da ferramenta DOTNET}{Duração: 12 horas}{}
+
+    \cventry{2005}{Minicurso}{Utilizando templates com PHP, aplicado a
+    um estudo de caso}{UTFPR Cornélio Procópio/PR}{Duração: 4 horas}{}
+
+\section{Participação em Eventos}
+
+    \cventry{2011}{Charneira 2011}{Curitiba/PR}{}{}{}
+
+    \cventry{2007}{WebMedia 2007}{Gramado/RS}{}{}{}
+
+    \cventry{2006}{XIII Escola Regional de
+    Informática}{Bandeirantes/PR}{}{}{}
+
+    \cventry{2006}{iMasters InterCon 2006}{São Paulo/SP}{}{}{}
+
+\section{Experiências Profissionais}
+
+    \cventry{2008--2010}{UTFPR, UNIVERSIDADE
+    TECNOLÓGICA FEDERAL DO PARANÁ, Campus Cornélio Procópio, Paraná -
+    Curso Superior de Tecnologia em Desenvolvimento de Sistemas de Informação}{}{}{}{Professor; disciplinas ministradas: Programação Comercial (C\#), Programação para Web (PHP, XHTML, JavaScript, JQuery, Ajax), Informática Básica (Suite Office 2007) e Projeto Integrador de Banco de Dados}
+    \httplink{www.cp.utfpr.edu.br}
+
+    \cventry{2007--atual}{Desenvolvedor Web}{}{}{}{Elaboração/Manutenção de
+    sistemas para \emph{web}}
+    \httplink{www.portfolio.diogocezar.com}
+    \httplink{www.xbrain.com.br}
+    \httplink{www.kreea.com.br}
+
+    \cventry{2005--2006}{Microlins - Cornélio Procópio}{}{}{}{Curso vip, ferramentas: Macromidia Flash MX e Delphi 7.0}
+
+    \httplink{www.microlins.com.br}
+
+\section{Idiomas}
+    \cvlanguage{Português}{}{Nativo}
+    \cvlanguage{Inglês}{}{Avançado}
+
+\section{Qualificações Profissionais}
+
+    \cventry{Sistemas Operacionais}{Windows, Linux e MacOS}{}{}{}{}
+
+    \cventry{Servidor Web}{Apache HTTP Server e Apache Tom
+    Cat}{}{}{}{}
+
+    \cventry{Linguagens}{Java, C/C++, C\#, PHP, Pascal,
+    JavaScript, Python e Ruby On Rails}{}{}{}{}
+
+    \cventry{Tipografia}{\LaTeX}{}{}{}{}
+
+    \cventry{Web}{DOM, XML, XHTML, HTML5, CSS2, CSS3, Jquery, Ajax}{}{}{}{}
+
+    \cventry{Banco de Dados}{MySQL, PostgreSQL, Firebird, Interbase e
+    Oracle 10gEx}{}{}{}{}
+
+    \cventry{Aplicações}{Microsoft Office, Adobe Flash, Adobe Premiere, Adobe AfterEffects, Adobe
+    Dreamweaver, Adobe Acrobat Reader, Adobe Image Ready, Adobe
+    Photoshop, Adobe Audition, Rational Enterprise Edition, Visual
+    Paradigm, Poseidon Professional Edition, Computer Associates ErWin,
+    MySQL-Front, Netbeans, JCreator, IBExpert e Delphi}{}{}{}{}
+
+\section{Publicações}
+
+    \cventry{2007}{Diogo Cezar Teixeira Batista, Ligia Flávia Antunes Batista}{Estratégia de Orientação Para Sistemas de Hipermídia Por Meio de Navegação Colaborativa}{WEBMEDIA 2007 -
+    Gramado/RS}{Páginas:8}{}
+
+    \cventry{2009}{Diogo Cezar Teixeira Batista}{O Impacto do HTML5 no Desenvolvimento para a Internet}{ExpoUT 2009 - UNIVERSIDADE
+    TECNOLÓGICA FEDERAL DO PARANÁ, Campus Cornélio Procópio, Paraná}{Páginas:6}{}
+
+\end{document}

@@ -1,0 +1,206 @@
+\documentclass[]{friggeri-cv}
+\usepackage{setspace}
+\begin{document}
+
+	\onehalfspacing
+
+	\header{Diogo Cezar Teixeira Batista}{}{Desenvolvedor Web}
+
+	\begin{aside}
+	\section{contato}
+	Rua Primo Bozelli, 124
+	Jd. Bandeirantes
+	Cornélio Procópio, Paraná
+	CEP 86300-000
+	Brasil
+	~
+	+55 (43) 3132 2070
+	+55 (43) 9629 9435
+	~
+	diogo@diogocezar.com
+	http://www.diogocezar.com
+	\section{idiomas}
+	Português Nativo
+	Inglês Avançado
+	\section{qualificações}
+	PHP, XHTML, Ajax,
+	CSS3, JavaScript
+	JQuery, HTML5, C\#
+	Java \& Photoshop
+	\end{aside}
+
+	\section{formações}
+
+	\begin{entrylist}
+		\entry
+		{2010--2012}
+		{Mestrado {\normalfont em Ciências da Computação}}
+		{UFPR, Curitiba - PR}
+		{\emph{Um Modelo de Execução de Fluxos de Trabalho Científico Utilizando Técnicas de Planejamento Automático} \\ LIAMF - Laboratório de Inteligência Artificial e Métodos Formais}
+		\entry
+		{2004--2007}
+		{Tecnologia {\normalfont  em Desenvolvimento de Sistemas de Informação}}
+		{UTFPR, Cornélio Procópio - PR}
+		{\emph{Proposta de Abordagem Hipermídia Adaptativa Baseada em Otimização por Colônia de Formigas}}
+		\entry
+		{2000--2003}
+		{Ensino Médio}
+		{UTFPR, Cornélio Procópio - PR}
+		{}
+	\end{entrylist}
+	
+\section{experiência}
+
+	\begin{entrylist}
+		\entry
+		{2015 -- atual}
+		{Creative Troops}
+		{São Paulo - SP}
+		{Desenvolvimento de Websites}
+		\entry
+		{2014 -- atual}
+		{Lorem Cultural Content}
+		{São Paulo - SP}
+		{Criação soluções para Artistas de âmbito nacional; Desenvolvimento de Websites e Sistema de Monitoramento de Redes Sociais}
+		\entry
+		{2014}
+		{Professor no Senac}
+		{Cornélio Procópio - PR}
+		{Curso de Programador Web \\ Disciplinas Ministradas: Fundamentos de programação orientada a objetos, HTML, CSS, JavaScript e Projeto Integrador de Fundamentos de Programação}
+		\entry
+		{2013--2014}
+		{Kreea Sistemas Web}
+		{Cornélio Procópio - PR}
+		{Desenvolvedor Web - ASP.NET, MVC, C\#, Sencha Ext, PHP, HTML5, CSS3}
+		\entry
+		{2013}
+		{Professor na UTFPR}
+		{Cornélio Procópio - PR}
+		{Pós Graduação Tecnologia Java \\ Disciplina ministrada: Servlets e JSP}
+		\entry
+		{2012--2013}
+		{ForLogic Software}
+		{Cornélio Procópio - PR}
+		{Desenvolvedor Web - ASP.NET, MVC, C\#, Sencha Ext, Sencha Touch, Desenvolvimento para dispositivos móveis, Analista e Líder de Projetos}
+		\entry
+		{2008--2009}
+		{Professor na UTFPR}
+		{Cornélio Procópio - PR}
+		{Disciplinas ministradas: Programação Comercial (C\#), Programação para Web (PHP, XHTML, JavaScript, JQuery, Ajax), Informática Básica (Suite Office 2007) e Projeto Integrador de Banco de Dados}
+		\entry
+		{2007--2008}
+		{XBrain}
+		{Londrina - PR}
+		{Desenvolvedor Web - PHP, MySQL, JavaScript, CSS e XHTML; Desenvolvimento dos Sistemas Sitrans e Sifin}
+	\end{entrylist}
+	
+	\newpage
+
+	\section{cursos ministrados}
+
+	\begin{entrylist}
+		\entry
+		{2015}
+		{ToastySoft - Cornélio Procópio - PR}
+		{Duração: 6 horas}
+		{Curso \emph{Web} Xp - Uma rápida abordagem aos principais recursos para o desenvolvimento \emph{web}}
+		\entry
+		{2011}
+		{PUCPR - Curitiba - PR}
+		{Duração: 10 horas}
+		{Charneira - Integração Multidisciplinar entre o \emph{Design} e a Programação para \emph{Web}}
+		\entry
+		{2007}
+		{Microlins - Cornélio Procópio - PR}
+		{Duração: 10 horas}
+		{Curso V.I.P. ministrado sobre a ferramenta Delphi 7.0}
+		\entry
+		{2005}
+		{Microlins - Cornélio Procópio - PR}
+		{Duração: 24 horas}
+		{Curso V.I.P. ministrado sobre a ferramenta Macromedia Flash MX}
+	\end{entrylist}
+
+	
+	%\section{cursos assistidos}
+
+	%\begin{entrylist}
+		%\entry
+		%{2009}
+		%{Desenvolvimento .NET com C\#}
+		%{Duração: 15 horas}
+		%{UTFPR Cornélio Procópio/PR}
+		%\entry
+		%{2007}
+		%{Web Application Development Using Ajax}
+		%{Duração: 8 horas}
+		%{WebMedia Gramado/RS}
+		%\entry
+		%{2007}
+		%{Hypermidia For Mobile Devices}
+		%{Duração: 8 horas}
+		%{WebMedia Gramado/RS}
+		%\entry
+		%{2005}
+		%{Desenvolvimento Web (PHP \& MySQL)}
+		%{Duração: 16 horas}
+		%{UTFPR Cornélio Procópio/PR}
+	%\end{entrylist}
+
+	\section{participação em eventos}
+
+	\begin{entrylist}
+		\entry
+		{2011}
+		{Charneira 2011}
+		{}
+		{Curitiba - PR}
+		\entry
+		{2007}
+		{WebMedia 2007}
+		{}
+		{Gramado - RS}
+		\entry
+		{2006}
+		{XIII Escola Regional de Informática}
+		{}
+		{Bandeirantes - PR}
+	\end{entrylist}
+
+	
+
+	\section{premiações}
+
+	\begin{entrylist}
+		\entry
+		{2007}
+		{UTFPR}
+		{Cornélio Procópio - PR}
+		{Premio de melhor estudante do curso de graduação}
+	\end{entrylist}
+
+	\section{interesses}
+
+	Desenvolvimento Web, Computação Evolucionária  \& Inteligência Artificial
+
+	\section{publicações}
+
+	\begin{entrylist}
+		\entry
+		{2012}
+		{Aplicações dinâmicas com PHP e Ajax}
+		{}
+		{Website Princeladas da Web. \\ Disponível em: http://goo.gl/m5Gg5J}
+		\entry
+		{2009}
+		{O Impacto do HTML5 no Desenvolvimento para a Internet}
+		{}
+		{ExpoUT 2009 - UTFPR - Cornélio Procópio - PR}
+		\entry
+		{2007}
+		{Estratégia de Orientação Para Sistemas de Hipermídia Por Meio de Navegação Colaborativa}
+		{}
+		{WebMedia 2007 - Gramado - RS}
+	\end{entrylist}
+
+\end{document}
